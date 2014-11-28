@@ -13,6 +13,7 @@
     CCNode *_catapultArm;
     CCNode *_levelNode;
     CCNode *_contentNode;
+    CCNode *_pullbackNode
     CCNode *_mouseJointNode;
     CCPhysicsJoint *_mouseJoint;
     
